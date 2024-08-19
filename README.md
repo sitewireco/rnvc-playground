@@ -19,4 +19,6 @@ Steps:
 - prebuild: `npx expo prebuild`
 - run on device: `npx expo run:android --device`
 
-Capture logs with `adb logcat > output.txt` for android logs from device.
+Capture logs with `adb logcat > log-output.txt` for android logs from device.
+
+Capture camera watch with `adb shell cmd media.camera watch start -m android.control.captureIntent,android.flash.mode,3a && adb shell cmd media.camera` and then `adb shell cmd media.camera watch dump > watch-output.txt`

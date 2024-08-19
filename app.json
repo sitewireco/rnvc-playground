@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rnvc-slow-android-picture",
-    "slug": "rnvc-slow-android-picture",
+    "name": "rnvc-playground",
+    "slug": "rnvc-playground",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,7 +16,7 @@
       "infoPlist": {
         "NSCameraUsageDescription": "Allow $(PRODUCT_NAME) to access your camera"
       },
-      "bundleIdentifier": "rnvcslowandroidpicture"
+      "bundleIdentifier": "rnvcplayground"
     },
     "android": {
       "adaptiveIcon": {
@@ -26,7 +26,7 @@
       "permissions": [
         "android.permission.CAMERA"
       ],
-      "package": "com.matt_sitewire.rnvcslowandroidpicture"
+      "package": "com.matt_sitewire.rnvcplayground"
     },
     "web": {
       "favicon": "./assets/favicon.png"

@@ -19,3 +19,5 @@ Steps:
   Taking photo will automatically cycle to the next scenario.
 - prebuild: `npx expo prebuild`
 - run on device: `npx expo run:android --device`
+
+Capture logs with `adb logcat > output.txt` for android logs from device.

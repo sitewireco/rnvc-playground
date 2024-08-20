@@ -2,16 +2,16 @@ On a Samsung Galaxy S21 5G device, these were the timings recorded, 5 captures.
 NOTE: all of these were captured in doors, but with good natural light and LED lamp overhead.
 
 Application code
-  durations: 664ms, 577ms, 579ms, 577ms, 599ms
-  average: 599ms
+  durations: 719ms, 626ms, 652ms, 663ms, 638ms
+  average: 660ms
 
 Android takePhoto -> onCaptureStarted
-  durations: 474ms, 436ms, 435ms, 437ms, 458ms
-  average: 448ms
+  durations: 461ms, 440ms, 456ms, 459ms, 441ms
+  average: 451ms
 
 Android takePhoto -> onImageSaved
-  durations: 650ms, 569ms, 569ms, 568ms, 593ms
-  average: 590ms
+  durations: 701ms, 616ms, 642ms, 655ms, 630ms
+  average: 650ms
 
 
 App logs are in ./app-output.txt

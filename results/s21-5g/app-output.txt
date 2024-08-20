@@ -1,8 +1,7 @@
-
  LOG  starting capture
  LOG  Capture completed
       
-      	Duration: 664ms
+      	Duration: 719ms
       	Device name: 0 (BACK) androidx.camera.camera2
       	Format: {
 	  "videoStabilizationModes": [
@@ -25,7 +24,7 @@
  LOG  starting capture
  LOG  Capture completed
       
-      	Duration: 577ms
+      	Duration: 626ms
       	Device name: 0 (BACK) androidx.camera.camera2
       	Format: {
 	  "videoStabilizationModes": [
@@ -48,7 +47,7 @@
  LOG  starting capture
  LOG  Capture completed
       
-      	Duration: 579ms
+      	Duration: 652ms
       	Device name: 0 (BACK) androidx.camera.camera2
       	Format: {
 	  "videoStabilizationModes": [
@@ -71,7 +70,7 @@
  LOG  starting capture
  LOG  Capture completed
       
-      	Duration: 577ms
+      	Duration: 663ms
       	Device name: 0 (BACK) androidx.camera.camera2
       	Format: {
 	  "videoStabilizationModes": [
@@ -94,7 +93,7 @@
  LOG  starting capture
  LOG  Capture completed
       
-      	Duration: 599ms
+      	Duration: 638ms
       	Device name: 0 (BACK) androidx.camera.camera2
       	Format: {
 	  "videoStabilizationModes": [

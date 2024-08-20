@@ -1,0 +1,625 @@
+08-20 16:14:15.141  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 30.038760
+08-20 16:14:15.415  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:15.705  1150  1430 D VSC     : @ 51692.346: [WO] Proposed rotation: 0, flat angle threshold: 65
+08-20 16:14:15.705  1150  1430 D VSC     : @ 51692.346: [WO] orientation angle 0, orientation 0
+08-20 16:14:15.705  1150  1430 D VSC     : @ 51692.346: [WO] Gyro angle integrated: 2.926951
+08-20 16:14:15.705  1150  1430 D VSC     : @ 51692.346: [WO] Gyro angle integrated: 2.926951
+08-20 16:14:16.174  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 30.009681
+08-20 16:14:16.415  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:16.875  9429  9429 I CameraSession: Output orientation changed! LANDSCAPE_LEFT
+08-20 16:14:16.876  9429  9429 I CameraView: invokeOnOutputOrientationChanged(LANDSCAPE_LEFT)
+08-20 16:14:16.938  9429  9429 I CameraSession: Output orientation changed! PORTRAIT
+08-20 16:14:16.940  9429  9429 I CameraView: invokeOnOutputOrientationChanged(PORTRAIT)
+08-20 16:14:17.191  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 29.469548
+08-20 16:14:17.203  9429  9429 I CameraSession: Output orientation changed! LANDSCAPE_LEFT
+08-20 16:14:17.204  9429  9429 I CameraView: invokeOnOutputOrientationChanged(LANDSCAPE_LEFT)
+08-20 16:14:17.403  9429  9429 I CameraSession: Output orientation changed! PORTRAIT
+08-20 16:14:17.405  9429  9429 I CameraView: invokeOnOutputOrientationChanged(PORTRAIT)
+08-20 16:14:17.415  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:17.572  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:14:17.699  1150  1430 D VSC     : @ 51694.340: [WO] Proposed rotation: 3, flat angle threshold: 40
+08-20 16:14:17.699  1150  1430 D VSC     : @ 51694.340: [WO] orientation angle 273, orientation 3
+08-20 16:14:17.699  1150  1430 D VSC     : @ 51694.340: [WO] Gyro angle integrated: 57.404907
+08-20 16:14:18.242  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 15.223597
+08-20 16:14:18.416  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:19.244  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:19.416  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:20.246  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:14:20.417  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:20.596  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 2]
+08-20 16:14:21.249  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:21.417  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:22.252  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:22.418  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:22.879 28372 28372 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+08-20 16:14:23.253  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:14:23.418  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:23.593  1150  1430 D VSC     : @ 51700.234: [Significant Motion] Request motion_detect, interval 18446744027136.0 ms, latency 0.0 ms
+08-20 16:14:23.593  1150  1430 D VSC     : @ 51700.234: [Significant Motion] Stop accel
+08-20 16:14:23.605  1150  1430 D ASH     : @ 51700.246: SensorType 195 resampler quality 2
+08-20 16:14:23.617  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 3]
+08-20 16:14:24.046 28353  7107 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+08-20 16:14:24.256  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:24.419  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:25.259  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:25.419  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:25.973  7641  7650 W st.exp.exponen: Suspending all threads took: 20.532ms
+08-20 16:14:26.261  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:26.419  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:26.437   804   830 I Finsky  : [2654] mxz.run(292): Stats for Executor: BlockingExecutor pwx@322d19f[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 123]
+08-20 16:14:26.439   804   830 I Finsky  : [2654] mxz.run(292): Stats for Executor: LightweightExecutor pwx@1abe2ec[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 586]
+08-20 16:14:26.547   804   830 I Finsky  : [2654] mxz.run(292): Stats for Executor: bgExecutor pwx@1e3df1c[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 970]
+08-20 16:14:26.640  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 4]
+08-20 16:14:27.203   804   830 I Finsky  : [2654] mxz.run(292): Stats for Executor: GrpcBackgroundExecutor pwx@3eb474c[Running, pool size = 2, active threads = 0, queued tasks = 0, completed tasks = 2]
+08-20 16:14:27.262  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:27.420  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:28.264  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:28.420  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:29.266  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:29.420  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:29.658  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:14:30.269  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:30.420  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:31.337  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.995314
+08-20 16:14:31.421  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:32.339  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:32.421  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:32.681  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 3]
+08-20 16:14:33.341  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:33.421  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:34.047 28353  7107 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+08-20 16:14:34.344  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:34.422  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:35.347  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:35.421  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:35.695  2069  2236 D ConnectivityService: NetReassign [no changes] [c 1] [a 0] [i 1]
+08-20 16:14:36.349  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:36.422  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:37.418  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.967259
+08-20 16:14:37.422  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:37.834  2069  7186 I ActivityManager: Killing 7551:com.android.chrome:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0/u0a188i-8999 (adj 975): empty for 1800s
+08-20 16:14:37.863 28372 28372 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+08-20 16:14:37.863 28372 28372 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+08-20 16:14:37.885  2069  7186 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService0:0 in 1000ms for connection
+08-20 16:14:37.886  2069  2147 I libprocessgroup: Successfully killed process cgroup uid 90001 pid 7551 in 50ms
+08-20 16:14:37.889  7188  7188 I Zygote  : Process 7551 exited due to signal 9 (Killed)
+08-20 16:14:37.890  7429  7521 W cr_ChildProcessConn: onServiceDisconnected (crash or killed by oom): pid=7551 bindings:W   
+08-20 16:14:37.900  2069  2152 E system_server: Cannot read thread CPU times for PID 2069
+08-20 16:14:38.106  2069  7186 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10188; state: DISABLED
+08-20 16:14:38.107  2069  2146 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10188; state: ENABLED
+08-20 16:14:38.123  1105  1105 D Zygote  : Forked child process 10055
+08-20 16:14:38.133  2069  2146 I ActivityManager: Start proc 10055:com.android.chrome:privileged_process1/u0a188 for service {com.android.chrome/org.chromium.content.app.PrivilegedProcessService1}
+08-20 16:14:38.140 10055 10055 I ileged_process: Using CollectorTypeCC GC.
+08-20 16:14:38.143 10055 10055 W ileged_process: Mismatch between instruction set variant of device (ISA: Arm64 Feature string: -a53,crc,lse,fp16,dotprod,-sve) and features returned by the hardware (ISA: Arm64 Feature string: -a53,crc,lse,fp16,-dotprod,-sve)
+08-20 16:14:38.148 10055 10055 E ileged_process: Not starting debugger since process cannot load the jdwp agent.
+08-20 16:14:38.155 10055 10055 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+08-20 16:14:38.173 10055 10055 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10188; state: ENABLED
+08-20 16:14:38.182 10055 10055 W ziparchive: Unable to open '/data/app/~~HdBZPbEMWo4UaCuhYW50xg==/com.google.android.trichromelibrary_653310333-1NSCBfdBOj6e7sg73Bo79g==/base.dm': No such file or directory
+08-20 16:14:38.182 10055 10055 W ziparchive: Unable to open '/data/app/~~HdBZPbEMWo4UaCuhYW50xg==/com.google.android.trichromelibrary_653310333-1NSCBfdBOj6e7sg73Bo79g==/base.dm': No such file or directory
+08-20 16:14:38.184 10055 10055 W ileged_process: Entry not found
+08-20 16:14:38.186 10055 10055 D nativeloader: Configuring clns-4 for other apk /data/app/~~HdBZPbEMWo4UaCuhYW50xg==/com.google.android.trichromelibrary_653310333-1NSCBfdBOj6e7sg73Bo79g==/base.apk. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/lib/arm64:/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk!/lib/arm64-v8a:/data/app/~~HdBZPbEMWo4UaCuhYW50xg==/com.google.android.trichromelibrary_653310333-1NSCBfdBOj6e7sg73Bo79g==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.chrome
+08-20 16:14:38.193 10055 10055 W ziparchive: Unable to open '/apex/com.android.extservices/javalib/android.ext.adservices.dm': No such file or directory
+08-20 16:14:38.193 10055 10055 W ziparchive: Unable to open '/apex/com.android.extservices/javalib/android.ext.adservices.dm': No such file or directory
+08-20 16:14:38.209 10055 10055 D nativeloader: Configuring clns-5 for other apk /apex/com.android.extservices/javalib/android.ext.adservices.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/lib/arm64:/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk!/lib/arm64-v8a:/data/app/~~HdBZPbEMWo4UaCuhYW50xg==/com.google.android.trichromelibrary_653310333-1NSCBfdBOj6e7sg73Bo79g==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.chrome
+08-20 16:14:38.213 10055 10055 D nativeloader: InitApexLibraries:
+08-20 16:14:38.213 10055 10055 D nativeloader:   com_android_appsearch: libicing.so
+08-20 16:14:38.213 10055 10055 D nativeloader:   com_android_art: libartservice.so
+08-20 16:14:38.213 10055 10055 D nativeloader:   com_android_conscrypt: libjavacrypto.so
+08-20 16:14:38.213 10055 10055 D nativeloader:   com_android_extservices: libtflite_support_classifiers_native.so
+08-20 16:14:38.213 10055 10055 D nativeloader:   com_android_mediaprovider: libpdfclient.so
+08-20 16:14:38.213 10055 10055 D nativeloader:   com_android_os_statsd: libstats_jni.so
+08-20 16:14:38.213 10055 10055 D nativeloader:   com_android_tethering: libandroid_net_connectivity_com_android_net_module_util_jni.so:libcrypto.so:libframework-connectivity-jni.so:libframework-connectivity-tiramisu-jni.so:libmainlinecronet.121.0.6167.71.so:libservice-connectivity.so:libservice-thread-jni.so:libssl.so
+08-20 16:14:38.233 10055 10055 D nativeloader: Configuring clns-6 for other apk /data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/lib/arm64:/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk!/lib/arm64-v8a:/data/app/~~HdBZPbEMWo4UaCuhYW50xg==/com.google.android.trichromelibrary_653310333-1NSCBfdBOj6e7sg73Bo79g==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.chrome
+08-20 16:14:38.289 10055 10055 V GraphicsEnvironment: ANGLE Developer option for 'com.android.chrome' set to: 'default'
+08-20 16:14:38.290 10055 10055 V GraphicsEnvironment: ANGLE GameManagerService for com.android.chrome: false
+08-20 16:14:38.290 10055 10055 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+08-20 16:14:38.293 10055 10055 I LoadedApk: No resource references to update in package com.google.android.trichromelibrary
+08-20 16:14:38.293 10055 10055 D NetworkSecurityConfig: Using Network Security Config from resource 0_resource_name_obfuscated debugBuild: false
+08-20 16:14:38.296 10055 10055 D NetworkSecurityConfig: Using Network Security Config from resource 0_resource_name_obfuscated debugBuild: false
+08-20 16:14:38.298 10055 10055 I cr_SplitCompatApp: version=127.0.6533.103 (653310333) minSdkVersion=29 isBundle=true processName=com.android.chrome:privileged_process1 isIsolatedProcess=false
+08-20 16:14:38.315 10055 10055 I cr_ChildProcessService: Creating new ChildProcessService pid=10055
+08-20 16:14:38.343 10055 10072 D nativeloader: Load /data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk!/lib/arm64-v8a/libchromium_android_linker.so using ns clns-6 from class loader (caller=/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk): ok
+08-20 16:14:38.344 10055 10072 I cr_LibraryLoader: Loading monochrome_64 from within /data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk
+08-20 16:14:38.344 10055 10072 I cr_Linker: loadLibraryImplLocked: monochrome_64, relroMode=2
+08-20 16:14:38.379 10055 10072 D nativeloader: Load /data/app/~~HdBZPbEMWo4UaCuhYW50xg==/com.google.android.trichromelibrary_653310333-1NSCBfdBOj6e7sg73Bo79g==/base.apk!/lib/arm64-v8a/libmonochrome_64.so using ns clns-6 from class loader (caller=/data/app/~~PGWvt5PnItRP3XLpbc0Wkg==/com.android.chrome-cQQgOc3wBzSqbYUB2RPuug==/base.apk): ok
+08-20 16:14:38.380 10055 10072 E cr_ChromiumAndroidLinker: RelroIsIdentical: Incoming RELRO size does not match RELRO of the loaded library
+08-20 16:14:38.381 10055 10072 E cr_ChromiumAndroidLinker: CompareRelroAndReplaceItBy: RELRO is not identical
+08-20 16:14:38.399 10055 10072 I cr_LibraryLoader: Successfully loaded native library
+08-20 16:14:38.401 10055 10072 I cr_CachingUmaRecorder: Flushed 4 samples from 4 histograms, 0 samples were dropped.
+08-20 16:14:38.422  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: QUALCOMM build                   : 781e7d0, I46ff5fc46f
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: Build Date                       : 12/01/20
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.31.04.01
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: Local Branch                     : QPR1
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: Remote Branch                    : 
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: Remote Branch                    : 
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: Reconstruct Branch               : 
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: Build Config                     : C P 11.0.1 AArch64
+08-20 16:14:38.436 10055 10072 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+08-20 16:14:38.459 10055 10072 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+08-20 16:14:38.473 10055 10072 W AdrenoUtils: <ReadGpuID_from_sysfs:197>: Failed to open /sys/class/kgsl/kgsl-3d0/gpu_model
+08-20 16:14:38.473 10055 10072 W AdrenoUtils: <ReadGpuID:221>: Failed to read chip ID from gpu_model. Fallback to use the GSL path
+08-20 16:14:38.482 10055 10072 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+08-20 16:14:38.485  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.995314
+08-20 16:14:38.656  7429  7429 W chromium: [WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 234 ms
+08-20 16:14:38.708  2069  2236 D ConnectivityService: NetReassign [no changes] [c 1] [a 0] [i 1]
+08-20 16:14:39.423  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:39.489  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:40.423  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:40.490  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:41.423  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:41.492  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:41.728  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 1]
+08-20 16:14:42.423  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:42.495  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:42.891  2069  2145 E libprocessgroup: getpgid(7188) failed: Permission denied
+08-20 16:14:42.888  2069  2069 W ActivityManager: type=1400 audit(0.0:1676): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.888  2069  2069 W ActivityManager: type=1400 audit(0.0:1677): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.896  2069  2145 E libprocessgroup: getpgid(7188) failed: Permission denied
+08-20 16:14:42.895  2069  2069 W ActivityManager: type=1400 audit(0.0:1678): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.895  2069  2069 W ActivityManager: type=1400 audit(0.0:1679): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.901  2069  2069 W ActivityManager: type=1400 audit(0.0:1680): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.901  2069  2069 W ActivityManager: type=1400 audit(0.0:1681): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.902  2069  2145 E libprocessgroup: getpgid(7188) failed: Permission denied
+08-20 16:14:42.905  2069  2069 W ActivityManager: type=1400 audit(0.0:1682): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.905  2069  2069 W ActivityManager: type=1400 audit(0.0:1683): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+08-20 16:14:42.908  2069  2145 E libprocessgroup: getpgid(7188) failed: Permission denied
+08-20 16:14:42.914  2069  2145 E libprocessgroup: getpgid(7188) failed: Permission denied
+08-20 16:14:42.916  1105  1105 I Zygote  : Process 7188 exited due to signal 9 (Killed)
+08-20 16:14:42.919  2069  2145 I libprocessgroup: Successfully killed process cgroup uid 10188 pid 7188 in 28ms
+08-20 16:14:43.423  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:43.497  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:14:44.049 28353  7107 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+08-20 16:14:44.423  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:44.500  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.940239
+08-20 16:14:44.689  2069  3814 I ActivityManager: Killing 24793:com.google.android.apps.photos/u0a172 (adj 935): empty for 1802s
+08-20 16:14:44.739  2069  2236 D ConnectivityService: NetReassign [no changes] [c 1] [a 0] [i 2]
+08-20 16:14:44.744  1105  1105 I Zygote  : Process 24793 exited due to signal 9 (Killed)
+08-20 16:14:44.747  2069  2147 I libprocessgroup: Successfully killed process cgroup uid 10172 pid 24793 in 56ms
+08-20 16:14:44.750  2069  2236 D ConnectivityService: releasing NetworkRequest [ REQUEST id=859, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10172 RequestorUid: 10172 RequestorPkg: com.google.android.apps.photos UnderlyingNetworks: Null] ] (release request)
+08-20 16:14:44.750  2069  2236 D ConnectivityService: releasing NetworkRequest [ REQUEST id=694, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10172 RequestorUid: 10172 RequestorPkg: com.google.android.apps.photos UnderlyingNetworks: Null] ] (release request)
+08-20 16:14:45.423  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:45.501  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:14:46.283  3379  3703 I BistoHotwordHelper: (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+08-20 16:14:46.424  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:46.504  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:47.299  1142  1142 I android.hardware.health@2.0-service.bonito: Entry state_: 1 charger_status: Full batteryLevel: 100
+08-20 16:14:47.299  1142  1142 I android.hardware.health@2.0-service.bonito: Exit state_: 1 batteryLevel: 100
+08-20 16:14:47.299  1142  1142 I android.hardware.health@2.0-service.bonito: capacity: 3019000
+08-20 16:14:47.304  2384  2384 D PowerNotificationWarningsGoogleImpl: onReceive: android.intent.action.BATTERY_CHANGED
+08-20 16:14:47.305  2384  9177 D PowerUI : can't show warning due to - plugged: true status unknown: false
+08-20 16:14:47.306  2384  2384 D BatteryInfoBroadcast: onReceive: android.intent.action.BATTERY_CHANGED isPowerSaveMode: false
+08-20 16:14:47.306  2384  2384 D BatteryDefenderNotification: isPlugged: true | isOverheated: false | defenderEnabled: false | isCharged: true
+08-20 16:14:47.424  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:47.505  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:47.761  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 1]
+08-20 16:14:48.424  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:48.507  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:49.424  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:49.510  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:50.425  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:50.512  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:50.781  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 1]
+08-20 16:14:51.426  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:51.514  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:52.426  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:52.518  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:52.956 28372 28372 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+08-20 16:14:53.427  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:53.519  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:53.800  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:14:54.050 28353  7107 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+08-20 16:14:54.426  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:54.521  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:14:55.427  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:55.523  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:55.832  7641  7650 W st.exp.exponen: Suspending all threads took: 8.308ms
+08-20 16:14:56.428  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:56.525  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:56.815  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:14:57.428  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:57.526  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:58.429  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:58.529  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:14:59.430  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:14:59.531  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:14:59.714  2069  6684 I ActivityManager: Killing 4133:com.google.android.webview:webview_service/u0a161 (adj 975): empty for 1803s
+08-20 16:14:59.736  2069  2147 I libprocessgroup: Successfully killed process cgroup uid 10161 pid 4133 in 21ms
+08-20 16:14:59.737  1105  1105 I Zygote  : Process 4133 exited due to signal 9 (Killed)
+08-20 16:14:59.834  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 2]
+08-20 16:15:00.031  3338  3527 I AiAiEcho: Predicting[7]: { Feature:1, creation:2024-08-20T20:54:49Z, expiry:2024-08-20T21:00:00Z, isExpired: true}, { Feature:1, creation:2024-08-20T21:00:00Z, expiry:2024-08-20T22:00:00Z, isExpired: false}, { Feature:1, creation:2024-08-20T22:00:00Z, expiry:2024-08-20T23:00:00Z, isExpired: true}, { Feature:1, creation:2024-08-20T23:00:00Z, expiry:2024-08-21T00:00:00Z, isExpired: true}, { Feature:1, creation:2024-08-21T00:00:00Z, expiry:2024-08-21T01:00:00Z, isExpired: true}, { Feature:1, creation:2024-08-21T01:00:00Z, expiry:2024-08-21T02:00:00Z, isExpired: true}, { Feature:1, creation:2024-08-21T02:00:00Z, expiry:2024-08-21T02:54:49Z, isExpired: true}
+08-20 16:15:00.033  3338  3527 I AiAiEcho: EchoTargets: Feature:1
+08-20 16:15:00.033  3338  3527 I AiAiEcho: Filtered by AiAi flag check: 
+08-20 16:15:00.036  3338  3527 I AiAiEcho: Ranked targets strategy: WEIGHTED, count: 1, ranking metadata: { cardId: WEATHER-569377244, card type: 1, update time: 2024-08-20T21:00:00Z, expiration time: 2024-08-20T22:00:00Z, ranking metadata: RankingMetaData(urgency=0.94, priority=0.3, recency=1.0, rankScore=0.282, importantTimePoints=# kwj@7bca4) }
+08-20 16:15:00.039  3338  3527 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 1 (types=[1])
+08-20 16:15:00.041  2384  2384 W BcSmartspaceCard: No title view to update
+08-20 16:15:00.430  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:00.534  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:01.431  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:01.535  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:02.430  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:02.538  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:02.857  2069  2236 D ConnectivityService: NetReassign [no changes] [c 1] [a 0] [i 3]
+08-20 16:15:03.431  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:03.540  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:04.053 28353  7107 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+08-20 16:15:04.431  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:04.542  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:05.432  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:05.544  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:15:05.874  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 2]
+08-20 16:15:06.433  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:06.546  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:15:07.433  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:07.549  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.940239
+08-20 16:15:07.875 28372 28372 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+08-20 16:15:07.875 28372 28372 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+08-20 16:15:08.434  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:08.551  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:15:08.895  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:15:09.435  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:09.553  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:15:10.435  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:10.555  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:10.619  7641  7650 W st.exp.exponen: Suspending all threads took: 7.366ms
+08-20 16:15:11.434  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:11.558  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:11.915  2069  2236 D ConnectivityService: NetReassign [no changes] [c 1] [a 0] [i 3]
+08-20 16:15:12.435  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:12.561  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:15:13.434  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:13.561  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:15:14.055 28353  7107 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+08-20 16:15:14.434  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:14.565  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:15:14.931  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:15:15.435  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:15.566  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:16.436  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:16.489  1150  1430 I CHRE    : @ 51753.131: [AR] ON => IDLE
+08-20 16:15:16.568  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:15:17.436  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:17.571  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.940239
+08-20 16:15:17.951  2069  2236 D ConnectivityService: NetReassign [no changes] [c 1] [a 0] [i 2]
+08-20 16:15:18.437  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:18.573  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:15:18.888  7641  7650 W st.exp.exponen: Suspending all threads took: 8.673ms
+08-20 16:15:19.437  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:19.574  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.970060
+08-20 16:15:20.438  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:20.576  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.985015
+08-20 16:15:20.968  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 2]
+08-20 16:15:21.439  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:21.579  1150  1430 D VSC     : @ 51758.220: [Significant Motion] Stop motion_detect
+08-20 16:15:21.579  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:15:21.579  1150  1430 I CHRE    : @ 51758.220: [AR] IDLE => ON
+08-20 16:15:21.579  1150  1430 D VSC     : @ 51758.221: [Significant Motion] Request accel, interval 20.0 ms, latency 3200.0 ms
+08-20 16:15:21.581  1150  1430 W CHRE    : @ 51758.222: [AR] unknown event: 515
+08-20 16:15:21.598  1150  1430 D ASH     : @ 51758.239: SensorType 195 resampler quality 1
+08-20 16:15:21.598  1150  1430 D CHRE    : @ 51758.239: SensorType 195 resampler quality 1
+08-20 16:15:22.438  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:22.581  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 14.955135
+08-20 16:15:22.607  9429  9429 I CameraSession: Output orientation changed! LANDSCAPE_LEFT
+08-20 16:15:22.609  9429  9429 I CameraView: invokeOnOutputOrientationChanged(LANDSCAPE_LEFT)
+08-20 16:15:22.677  9429  9429 I CameraSession: Output orientation changed! PORTRAIT
+08-20 16:15:22.679  9429  9429 I CameraView: invokeOnOutputOrientationChanged(PORTRAIT)
+08-20 16:15:22.806  9429  9429 I CameraSession: Output orientation changed! LANDSCAPE_LEFT
+08-20 16:15:22.808  9429  9429 I CameraView: invokeOnOutputOrientationChanged(LANDSCAPE_LEFT)
+08-20 16:15:22.876  9429  9429 I CameraSession: Output orientation changed! PORTRAIT
+08-20 16:15:22.878  9429  9429 I CameraView: invokeOnOutputOrientationChanged(PORTRAIT)
+08-20 16:15:22.900 28372 28372 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+08-20 16:15:22.937  9429  9429 I CameraSession: Output orientation changed! LANDSCAPE_RIGHT
+08-20 16:15:22.938  9429  9429 I CameraView: invokeOnOutputOrientationChanged(LANDSCAPE_RIGHT)
+08-20 16:15:23.005  9429  9429 I CameraSession: Output orientation changed! PORTRAIT
+08-20 16:15:23.006  9429  9429 I CameraView: invokeOnOutputOrientationChanged(PORTRAIT)
+08-20 16:15:23.438  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:23.618  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 16.409266
+08-20 16:15:23.663  1150  1430 D VSC     : @ 51760.304: [WO] Proposed rotation: 4, flat angle threshold: 65
+08-20 16:15:23.663  1150  1430 D VSC     : @ 51760.304: [WO] orientation angle 359, orientation 4
+08-20 16:15:23.663  1150  1430 D VSC     : @ 51760.304: [WO] Gyro angle integrated: 213.418548
+08-20 16:15:23.663  1150  1430 D VSC     : @ 51760.304: [WO] Gyro angle integrated: 213.418548
+08-20 16:15:23.986  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:15:24.056 28353  7107 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+08-20 16:15:24.439  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:24.643  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 28.265107
+08-20 16:15:25.439  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:25.676  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 30.009681
+08-20 16:15:25.743  1150  1430 D VSC     : @ 51762.384: [WO] Proposed rotation: 4, flat angle threshold: 65
+08-20 16:15:25.743  1150  1430 D VSC     : @ 51762.384: [WO] orientation angle 356, orientation 4
+08-20 16:15:25.743  1150  1430 D VSC     : @ 51762.384: [WO] Gyro angle integrated: 8.074338
+08-20 16:15:25.743  1150  1430 D VSC     : @ 51762.384: [WO] Gyro angle integrated: 8.074338
+08-20 16:15:26.355  9429  9498 I ReactNativeJS: starting capture
+08-20 16:15:26.366  9429  9429 D CameraView: Finding view 3...
+08-20 16:15:26.366  9429  9429 D CameraView: Found view 3!
+08-20 16:15:26.367  9429 10082 I CameraView.takePhoto: Taking photo... Options: {enableShutterSound=true, flash=off}
+08-20 16:15:26.369  9429  9507 D UseCaseAttachState: Active and attached use case: [androidx.camera.core.ImageCapture-201f66ac-b6b2-476a-a25d-8fa47bb4f49e179701560, androidx.camera.core.Preview-cadd355b-192d-4005-893e-6a2f1925d544107014043] for camera: 0
+08-20 16:15:26.370  9429  9507 D CaptureSession: Attempting to submit CaptureRequest after setting
+08-20 16:15:26.370  9429  9507 D CaptureSession: Issuing request for session.
+08-20 16:15:26.370  9429  9507 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:26.374  9429  9429 D ImageCapture: takePictureInternal
+08-20 16:15:26.374  9429  9429 D CameraOrientationUtil: getRelativeImageRotation: destRotationDegrees=0, sourceRotationDegrees=90, isOppositeFacing=true, result=90
+08-20 16:15:26.374  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:26.438  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:26.553  9429  9508 D Camera2CameraImpl: {Camera@4671fe3[id=0]} Issue capture request
+08-20 16:15:26.553  9429  9508 D CaptureSession: Issuing capture request.
+08-20 16:15:26.554  9429  9508 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:26.579  1132  1921 I ISPHVX  : [KPI]SNAPSHOT frameID: 4898
+08-20 16:15:26.580  1132  1921 D CHIUSECASE: ExecuteCaptureRequest: frame number 1860 is an HDR+ request.
+08-20 16:15:26.583  1132  1838 E CamX    : [ERROR][IQMod  ] camxbpslsc34.cpp:279 CheckDependenceChange() Invaild chromatix
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.618  1132  1837 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.679  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 29.940120
+08-20 16:15:26.695  9429  9429 I ImageCapture: Capture Started Duration from start: 321ms
+08-20 16:15:26.696  9429  9429 I CameraView: invokeOnShutter(PHOTO)
+08-20 16:15:26.755  1132  1839 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.755  1132  1839 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:26.756  1132  1839 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:974 GetEXIFExposure() AEC Exposure Info:NULL
+08-20 16:15:26.756  1132  1839 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:988 GetEXIFExposure() ASD Output:NULL
+08-20 16:15:26.759  1132  1841 I CHIUSECASE: ModifyPipelineResultBuffers: returns 1 input streams for frameNumber 1860 in hdrplus offline pipeline.
+08-20 16:15:26.768  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:26.768  9429  9429 D TakePictureManager: No new request.
+08-20 16:15:26.810  9429 10082 I ImageCapture: Image Saved Duration from start: 436ms
+08-20 16:15:26.812  9429 10083 I CameraView.takePhoto: Successfully captured 4032 x 3024 photo!
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: Capture completed
+08-20 16:15:26.814  9429  9498 I ReactNativeJS:       
+08-20 16:15:26.814  9429  9498 I ReactNativeJS:       	Duration: 459ms
+08-20 16:15:26.814  9429  9498 I ReactNativeJS:       	Device name: 0 (BACK) androidx.camera.camera2
+08-20 16:15:26.814  9429  9498 I ReactNativeJS:       	Format: {
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "videoStabilizationModes": [
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	    "off",
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	    "cinematic"
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  ],
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "autoFocusSystem": "contrast-detection",
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "photoWidth": 4032,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "supportsPhotoHdr": false,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "supportsDepthCapture": false,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "maxISO": 7111,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "minISO": 55,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "minFps": 7,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "videoWidth": 3840,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "supportsVideoHdr": false,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "videoHeight": 2160,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "fieldOfView": 76.94092946489485,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "maxFps": 30,
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	  "photoHeight": 3024
+08-20 16:15:26.814  9429  9498 I ReactNativeJS: 	}
+08-20 16:15:26.814  9429  9498 I ReactNativeJS:       
+08-20 16:15:26.999  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:15:27.439  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:27.590  9429  9498 I ReactNativeJS: starting capture
+08-20 16:15:27.601  9429  9429 D CameraView: Finding view 3...
+08-20 16:15:27.601  9429  9429 D CameraView: Found view 3!
+08-20 16:15:27.603  9429 10083 I CameraView.takePhoto: Taking photo... Options: {enableShutterSound=true, flash=off}
+08-20 16:15:27.606  9429  9507 D UseCaseAttachState: Active and attached use case: [androidx.camera.core.ImageCapture-201f66ac-b6b2-476a-a25d-8fa47bb4f49e179701560, androidx.camera.core.Preview-cadd355b-192d-4005-893e-6a2f1925d544107014043] for camera: 0
+08-20 16:15:27.607  9429  9507 D CaptureSession: Attempting to submit CaptureRequest after setting
+08-20 16:15:27.607  9429  9507 D CaptureSession: Issuing request for session.
+08-20 16:15:27.608  9429  9507 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:27.608  9429  9429 D ImageCapture: takePictureInternal
+08-20 16:15:27.609  9429  9429 D CameraOrientationUtil: getRelativeImageRotation: destRotationDegrees=0, sourceRotationDegrees=90, isOppositeFacing=true, result=90
+08-20 16:15:27.609  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:27.709  1132  1842 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 30.097087
+08-20 16:15:27.736  1150  1430 D VSC     : @ 51764.377: [WO] Proposed rotation: 4, flat angle threshold: 65
+08-20 16:15:27.736  1150  1430 D VSC     : @ 51764.377: [WO] orientation angle 357, orientation 4
+08-20 16:15:27.736  1150  1430 D VSC     : @ 51764.377: [WO] Gyro angle integrated: 6.237541
+08-20 16:15:27.736  1150  1430 D VSC     : @ 51764.377: [WO] Gyro angle integrated: 6.237541
+08-20 16:15:27.784  9429  9508 D Camera2CameraImpl: {Camera@4671fe3[id=0]} Issue capture request
+08-20 16:15:27.784  9429  9508 D CaptureSession: Issuing capture request.
+08-20 16:15:27.785  9429  9508 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:27.812  1132  1921 I ISPHVX  : [KPI]SNAPSHOT frameID: 4936
+08-20 16:15:27.812  1132  1921 D CHIUSECASE: ExecuteCaptureRequest: frame number 1898 is an HDR+ request.
+08-20 16:15:27.815  1132  1836 E CamX    : [ERROR][IQMod  ] camxbpslsc34.cpp:279 CheckDependenceChange() Invaild chromatix
+08-20 16:15:27.929  9429  9429 I ImageCapture: Capture Started Duration from start: 321ms
+08-20 16:15:27.929  9429  9429 I CameraView: invokeOnShutter(PHOTO)
+08-20 16:15:27.977  1132  1838 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:27.977  1132  1838 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:27.982  1132  1837 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:974 GetEXIFExposure() AEC Exposure Info:NULL
+08-20 16:15:27.982  1132  1837 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:988 GetEXIFExposure() ASD Output:NULL
+08-20 16:15:27.985  1132  1842 I CHIUSECASE: ModifyPipelineResultBuffers: returns 1 input streams for frameNumber 1898 in hdrplus offline pipeline.
+08-20 16:15:27.985  1132  1840 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:27.985  1132  1840 E CamX    : [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+08-20 16:15:27.994  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:27.994  9429  9429 D TakePictureManager: No new request.
+08-20 16:15:28.026  9429 10083 I ImageCapture: Image Saved Duration from start: 418ms
+08-20 16:15:28.027  9429 10082 I CameraView.takePhoto: Successfully captured 4032 x 3024 photo!
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: Capture completed
+08-20 16:15:28.029  9429  9498 I ReactNativeJS:       
+08-20 16:15:28.029  9429  9498 I ReactNativeJS:       	Duration: 438ms
+08-20 16:15:28.029  9429  9498 I ReactNativeJS:       	Device name: 0 (BACK) androidx.camera.camera2
+08-20 16:15:28.029  9429  9498 I ReactNativeJS:       	Format: {
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "videoStabilizationModes": [
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	    "off",
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	    "cinematic"
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  ],
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "autoFocusSystem": "contrast-detection",
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "photoWidth": 4032,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "supportsPhotoHdr": false,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "supportsDepthCapture": false,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "maxISO": 7111,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "minISO": 55,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "minFps": 7,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "videoWidth": 3840,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "supportsVideoHdr": false,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "videoHeight": 2160,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "fieldOfView": 76.94092946489485,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "maxFps": 30,
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	  "photoHeight": 3024
+08-20 16:15:28.029  9429  9498 I ReactNativeJS: 	}
+08-20 16:15:28.029  9429  9498 I ReactNativeJS:       
+08-20 16:15:28.438  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:28.709  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 29.970030
+08-20 16:15:28.891  9429  9498 I ReactNativeJS: starting capture
+08-20 16:15:28.900  9429  9429 D CameraView: Finding view 3...
+08-20 16:15:28.900  9429  9429 D CameraView: Found view 3!
+08-20 16:15:28.900  9429 10082 I CameraView.takePhoto: Taking photo... Options: {enableShutterSound=true, flash=off}
+08-20 16:15:28.903  9429  9429 D ImageCapture: takePictureInternal
+08-20 16:15:28.903  9429  9429 D CameraOrientationUtil: getRelativeImageRotation: destRotationDegrees=0, sourceRotationDegrees=90, isOppositeFacing=true, result=90
+08-20 16:15:28.903  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:28.905  9429  9507 D UseCaseAttachState: Active and attached use case: [androidx.camera.core.ImageCapture-201f66ac-b6b2-476a-a25d-8fa47bb4f49e179701560, androidx.camera.core.Preview-cadd355b-192d-4005-893e-6a2f1925d544107014043] for camera: 0
+08-20 16:15:28.906  9429  9507 D CaptureSession: Attempting to submit CaptureRequest after setting
+08-20 16:15:28.906  9429  9507 D CaptureSession: Issuing request for session.
+08-20 16:15:28.907  9429  9507 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:29.083  9429  9508 D Camera2CameraImpl: {Camera@4671fe3[id=0]} Issue capture request
+08-20 16:15:29.084  9429  9508 D CaptureSession: Issuing capture request.
+08-20 16:15:29.085  9429  9508 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:29.112  1132  1921 I ISPHVX  : [KPI]SNAPSHOT frameID: 4976
+08-20 16:15:29.114  1132  1921 D CHIUSECASE: ExecuteCaptureRequest: frame number 1938 is an HDR+ request.
+08-20 16:15:29.117  1132  1837 E CamX    : [ERROR][IQMod  ] camxbpslsc34.cpp:279 CheckDependenceChange() Invaild chromatix
+08-20 16:15:29.228  9429  9429 I ImageCapture: Capture Started Duration from start: 326ms
+08-20 16:15:29.228  9429  9429 I CameraView: invokeOnShutter(PHOTO)
+08-20 16:15:29.286  1132  1840 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:974 GetEXIFExposure() AEC Exposure Info:NULL
+08-20 16:15:29.286  1132  1840 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:988 GetEXIFExposure() ASD Output:NULL
+08-20 16:15:29.290  1132  1842 I CHIUSECASE: ModifyPipelineResultBuffers: returns 1 input streams for frameNumber 1938 in hdrplus offline pipeline.
+08-20 16:15:29.300  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:29.300  9429  9429 D TakePictureManager: No new request.
+08-20 16:15:29.332  9429 10082 I ImageCapture: Image Saved Duration from start: 430ms
+08-20 16:15:29.333  9429 10083 I CameraView.takePhoto: Successfully captured 4032 x 3024 photo!
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: Capture completed
+08-20 16:15:29.334  9429  9498 I ReactNativeJS:       
+08-20 16:15:29.334  9429  9498 I ReactNativeJS:       	Duration: 443ms
+08-20 16:15:29.334  9429  9498 I ReactNativeJS:       	Device name: 0 (BACK) androidx.camera.camera2
+08-20 16:15:29.334  9429  9498 I ReactNativeJS:       	Format: {
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "videoStabilizationModes": [
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	    "off",
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	    "cinematic"
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  ],
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "autoFocusSystem": "contrast-detection",
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "photoWidth": 4032,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "supportsPhotoHdr": false,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "supportsDepthCapture": false,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "maxISO": 7111,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "minISO": 55,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "minFps": 7,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "videoWidth": 3840,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "supportsVideoHdr": false,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "videoHeight": 2160,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "fieldOfView": 76.94092946489485,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "maxFps": 30,
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	  "photoHeight": 3024
+08-20 16:15:29.334  9429  9498 I ReactNativeJS: 	}
+08-20 16:15:29.334  9429  9498 I ReactNativeJS:       
+08-20 16:15:29.439  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:29.742  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 30.038760
+08-20 16:15:29.814  1150  1430 D VSC     : @ 51766.456: [WO] Proposed rotation: 4, flat angle threshold: 65
+08-20 16:15:29.815  1150  1430 D VSC     : @ 51766.456: [WO] orientation angle 357, orientation 4
+08-20 16:15:29.815  1150  1430 D VSC     : @ 51766.456: [WO] Gyro angle integrated: 3.590475
+08-20 16:15:29.815  1150  1430 D VSC     : @ 51766.456: [WO] Gyro angle integrated: 3.590475
+08-20 16:15:30.022  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 2]
+08-20 16:15:30.179  9429  9498 I ReactNativeJS: starting capture
+08-20 16:15:30.187  9429  9429 D CameraView: Finding view 3...
+08-20 16:15:30.187  9429  9429 D CameraView: Found view 3!
+08-20 16:15:30.189  9429 10083 I CameraView.takePhoto: Taking photo... Options: {enableShutterSound=true, flash=off}
+08-20 16:15:30.190  9429  9429 D ImageCapture: takePictureInternal
+08-20 16:15:30.191  9429  9429 D CameraOrientationUtil: getRelativeImageRotation: destRotationDegrees=0, sourceRotationDegrees=90, isOppositeFacing=true, result=90
+08-20 16:15:30.191  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:30.191  9429  9508 D UseCaseAttachState: Active and attached use case: [androidx.camera.core.ImageCapture-201f66ac-b6b2-476a-a25d-8fa47bb4f49e179701560, androidx.camera.core.Preview-cadd355b-192d-4005-893e-6a2f1925d544107014043] for camera: 0
+08-20 16:15:30.192  9429  9508 D CaptureSession: Attempting to submit CaptureRequest after setting
+08-20 16:15:30.192  9429  9508 D CaptureSession: Issuing request for session.
+08-20 16:15:30.192  9429  9508 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:30.383  9429  9508 D Camera2CameraImpl: {Camera@4671fe3[id=0]} Issue capture request
+08-20 16:15:30.384  9429  9508 D CaptureSession: Issuing capture request.
+08-20 16:15:30.385  9429  9508 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:30.411  1132  1132 I ISPHVX  : [KPI]SNAPSHOT frameID: 5016
+08-20 16:15:30.412  1132  1132 D CHIUSECASE: ExecuteCaptureRequest: frame number 1978 is an HDR+ request.
+08-20 16:15:30.415  1132  1840 E CamX    : [ERROR][IQMod  ] camxbpslsc34.cpp:279 CheckDependenceChange() Invaild chromatix
+08-20 16:15:30.439  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:30.528  9429  9429 I ImageCapture: Capture Started Duration from start: 338ms
+08-20 16:15:30.528  9429  9429 I CameraView: invokeOnShutter(PHOTO)
+08-20 16:15:30.585  1132  1838 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:974 GetEXIFExposure() AEC Exposure Info:NULL
+08-20 16:15:30.585  1132  1838 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:988 GetEXIFExposure() ASD Output:NULL
+08-20 16:15:30.589  1132  1842 I CHIUSECASE: ModifyPipelineResultBuffers: returns 1 input streams for frameNumber 1978 in hdrplus offline pipeline.
+08-20 16:15:30.598  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:30.598  9429  9429 D TakePictureManager: No new request.
+08-20 16:15:30.630  9429 10083 I ImageCapture: Image Saved Duration from start: 440ms
+08-20 16:15:30.631  9429 10082 I CameraView.takePhoto: Successfully captured 4032 x 3024 photo!
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: Capture completed
+08-20 16:15:30.632  9429  9498 I ReactNativeJS:       
+08-20 16:15:30.632  9429  9498 I ReactNativeJS:       	Duration: 453ms
+08-20 16:15:30.632  9429  9498 I ReactNativeJS:       	Device name: 0 (BACK) androidx.camera.camera2
+08-20 16:15:30.632  9429  9498 I ReactNativeJS:       	Format: {
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "videoStabilizationModes": [
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	    "off",
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	    "cinematic"
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  ],
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "autoFocusSystem": "contrast-detection",
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "photoWidth": 4032,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "supportsPhotoHdr": false,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "supportsDepthCapture": false,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "maxISO": 7111,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "minISO": 55,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "minFps": 7,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "videoWidth": 3840,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "supportsVideoHdr": false,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "videoHeight": 2160,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "fieldOfView": 76.94092946489485,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "maxFps": 30,
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	  "photoHeight": 3024
+08-20 16:15:30.632  9429  9498 I ReactNativeJS: 	}
+08-20 16:15:30.632  9429  9498 I ReactNativeJS:       
+08-20 16:15:30.774  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 30.009681
+08-20 16:15:31.412  9429  9498 I ReactNativeJS: starting capture
+08-20 16:15:31.421  9429  9429 D CameraView: Finding view 3...
+08-20 16:15:31.421  9429  9429 D CameraView: Found view 3!
+08-20 16:15:31.422  9429 10082 I CameraView.takePhoto: Taking photo... Options: {enableShutterSound=true, flash=off}
+08-20 16:15:31.424  9429  9429 D ImageCapture: takePictureInternal
+08-20 16:15:31.424  9429  9508 D UseCaseAttachState: Active and attached use case: [androidx.camera.core.ImageCapture-201f66ac-b6b2-476a-a25d-8fa47bb4f49e179701560, androidx.camera.core.Preview-cadd355b-192d-4005-893e-6a2f1925d544107014043] for camera: 0
+08-20 16:15:31.424  9429  9429 D CameraOrientationUtil: getRelativeImageRotation: destRotationDegrees=0, sourceRotationDegrees=90, isOppositeFacing=true, result=90
+08-20 16:15:31.424  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:31.425  9429  9508 D CaptureSession: Attempting to submit CaptureRequest after setting
+08-20 16:15:31.425  9429  9508 D CaptureSession: Issuing request for session.
+08-20 16:15:31.425  9429  9508 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:31.440  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:31.615  9429  9507 D Camera2CameraImpl: {Camera@4671fe3[id=0]} Issue capture request
+08-20 16:15:31.615  9429  9507 D CaptureSession: Issuing capture request.
+08-20 16:15:31.616  9429  9507 D Camera2CaptureRequestBuilder: createCaptureRequest
+08-20 16:15:31.644  1132  1845 I ISPHVX  : [KPI]SNAPSHOT frameID: 5054
+08-20 16:15:31.644  1132  1845 D CHIUSECASE: ExecuteCaptureRequest: frame number 2016 is an HDR+ request.
+08-20 16:15:31.647  1132  1839 E CamX    : [ERROR][IQMod  ] camxbpslsc34.cpp:279 CheckDependenceChange() Invaild chromatix
+08-20 16:15:31.760  9429  9429 I ImageCapture: Capture Started Duration from start: 336ms
+08-20 16:15:31.760  9429  9429 I CameraView: invokeOnShutter(PHOTO)
+08-20 16:15:31.776  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 29.940120
+08-20 16:15:31.810  1150  1430 D VSC     : @ 51768.451: [WO] Proposed rotation: 4, flat angle threshold: 65
+08-20 16:15:31.810  1150  1430 D VSC     : @ 51768.451: [WO] orientation angle 357, orientation 4
+08-20 16:15:31.810  1150  1430 D VSC     : @ 51768.451: [WO] Gyro angle integrated: 5.052788
+08-20 16:15:31.810  1150  1430 D VSC     : @ 51768.451: [WO] Gyro angle integrated: 5.052788
+08-20 16:15:31.814  1132  1837 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:974 GetEXIFExposure() AEC Exposure Info:NULL
+08-20 16:15:31.814  1132  1837 E CamX    : [ERROR][JPEG   ] camxjpegexifparams.cpp:988 GetEXIFExposure() ASD Output:NULL
+08-20 16:15:31.819  1132  1841 I CHIUSECASE: ModifyPipelineResultBuffers: returns 1 input streams for frameNumber 2016 in hdrplus offline pipeline.
+08-20 16:15:31.828  9429  9429 D TakePictureManager: Issue the next TakePictureRequest.
+08-20 16:15:31.828  9429  9429 D TakePictureManager: No new request.
+08-20 16:15:31.861  9429 10082 I ImageCapture: Image Saved Duration from start: 437ms
+08-20 16:15:31.862  9429 10083 I CameraView.takePhoto: Successfully captured 4032 x 3024 photo!
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: Capture completed
+08-20 16:15:31.863  9429  9498 I ReactNativeJS:       
+08-20 16:15:31.863  9429  9498 I ReactNativeJS:       	Duration: 450ms
+08-20 16:15:31.863  9429  9498 I ReactNativeJS:       	Device name: 0 (BACK) androidx.camera.camera2
+08-20 16:15:31.863  9429  9498 I ReactNativeJS:       	Format: {
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "videoStabilizationModes": [
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	    "off",
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	    "cinematic"
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  ],
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "autoFocusSystem": "contrast-detection",
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "photoWidth": 4032,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "supportsPhotoHdr": false,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "supportsDepthCapture": false,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "maxISO": 7111,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "minISO": 55,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "minFps": 7,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "videoWidth": 3840,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "supportsVideoHdr": false,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "videoHeight": 2160,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "fieldOfView": 76.94092946489485,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "maxFps": 30,
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	  "photoHeight": 3024
+08-20 16:15:31.863  9429  9498 I ReactNativeJS: 	}
+08-20 16:15:31.863  9429  9498 I ReactNativeJS:       
+08-20 16:15:32.440  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:32.808  1132  1841 I ISPHVX  : PREVIEW_FRAMES_PER_SECOND: 30.067895
+08-20 16:15:33.037  2069  2236 D ConnectivityService: NetReassign [no changes] [c 0] [a 1] [i 1]
+08-20 16:15:33.440  9429  9521 I CameraView: invokeOnAverageFpsChanged(0.0)
+08-20 16:15:33.532  7641  7650 W st.exp.exponen: Suspending all threads took: 5.238ms

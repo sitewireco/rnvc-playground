@@ -1,0 +1,28 @@
+On a Google Pixel 3a device, these were the timings recorded, 5 captures.
+NOTE: all of these were captured indoors, but with good natural light.
+
+Application code
+  durations: 539ms, 469ms, 476ms, 459ms, 459ms
+  average: 480.4ms
+
+Android takePhoto -> onCaptureStarted
+  durations: 359ms, 320ms, 338ms, 330ms, 332ms
+  average: 335.8ms
+  
+Android takePhoto -> onImageSaved
+  Durations: 513ms, 448ms, 462ms, 442ms, 445ms
+  Average: 462ms
+
+App logs are in ./app-output.txt
+
+Android logs (snipped to current session) are in ./log-output.txt
+  Locate the start of capture with markers:
+    ReactNativeJS: starting capture
+    CameraView.takePhoto
+  Locate the onCaptureStarted event with markers:
+    ImageCapture: Capture Started
+  Locate the onImageSaved event with markers:
+    ImageCapture: Image Saved
+    ReactNativeJS: Capture completed
+
+Watch logs (adb shell cmd media.camera watch) are not available because the device is running Android 12.

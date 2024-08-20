@@ -1,0 +1,1 @@
+media.camera watch is not available on Android 12

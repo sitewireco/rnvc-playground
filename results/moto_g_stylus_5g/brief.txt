@@ -1,17 +1,17 @@
-On a Samsung Galaxy S21 5G device, these were the timings recorded, 5 captures.
-NOTE: all of these were captured in doors, but with good natural light and LED lamp overhead.
+On a Motorola Moto G Stylus 5G device, these were the timings recorded, 7 captures.
+NOTE: all of these were captured inside, but with good natural light and LED lamp overhead.
 
 Application code
-  durations: 719ms, 626ms, 652ms, 663ms, 638ms
-  average: 660ms
+  durations: 1417ms, 1448ms, 1395ms, 1336ms, 1338ms, 1414ms, 1419ms
+  average: 1395ms
 
 Android takePhoto -> onCaptureStarted
-  durations: 461ms, 440ms, 456ms, 459ms, 441ms
-  average: 451ms
+  durations: 730ms, 783ms, 749ms, 736ms, 738ms, 741ms, 749ms
+  average: 747ms
 
 Android takePhoto -> onImageSaved
-  durations: 701ms, 616ms, 642ms, 655ms, 630ms
-  average: 650ms
+  durations: 1404ms, 1433ms, 1382ms, 1322ms, 1326ms, 1403ms, 1400ms
+  average: 1381ms
 
 
 App logs are in ./app-output.txt
@@ -26,4 +26,4 @@ Android logs (snipped to current session) are in ./log-output.txt
     ImageCapture: Image Saved
     ReactNativeJS: Capture completed
 
-Watch logs (adb shell cmd media.camera watch) are in ./watch-output.txt
+Watch logs are not supported on this device (Android 12, requires 13)

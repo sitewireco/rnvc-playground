@@ -12,8 +12,7 @@ export default function App() {
   const [capturing, setCapturing] = useState(false)
 
   const format = useCameraFormat(device, [
-    { photoResolution: { width: 4032, height: 3024 } },
-    { fps: 30 }
+    { photoResolution: { width: 4032, height: 3024 } }
   ])
 
   useEffect(() => {
@@ -57,10 +56,9 @@ export default function App() {
         device={device}
         isActive={true}
         photo={true}
-        video={true}
-        fps={[10, 30]}
         enableLocation={false}
         format={format}
+        fps={[format.minFps, Math.min(30, format.maxFps)]}
         outputOrientation='device'
         photoQualityBalance='balanced'
       />

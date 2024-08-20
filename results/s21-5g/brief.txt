@@ -1,0 +1,29 @@
+On a Samsung Galaxy S21 5G device, these were the timings recorded, 5 captures.
+NOTE: all of these were captured in doors, but with good natural light and LED lamp overhead.
+
+Application code
+  durations: 664ms, 577ms, 579ms, 577ms, 599ms
+  average: 599ms
+
+Android takePhoto -> onCaptureStarted
+  durations: 474ms, 436ms, 435ms, 437ms, 458ms
+  average: 448ms
+
+Android takePhoto -> onImageSaved
+  durations: 650ms, 569ms, 569ms, 568ms, 593ms
+  average: 590ms
+
+
+App logs are in ./app-output.txt
+
+Android logs (snipped to current session) are in ./log-output.txt
+  Locate the start of capture with markers:
+    ReactNativeJS: starting capture
+    CameraView.takePhoto
+  Locate the onCaptureStarted event with markers:
+    ImageCapture: Capture Started
+  Locate the onImageSaved event with markers:
+    ImageCapture: Image Saved
+    ReactNativeJS: Capture completed
+
+Watch logs (adb shell cmd media.camera watch) are in ./watch-output.txt

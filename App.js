@@ -32,15 +32,13 @@ export default function App() {
     try {
       const start = Date.now()
       await cameraRef.current?.takePhoto({
-        // flash: currentScenario.capture.flash,
-        // enableShutterSound: currentScenario.capture.enableShutterSound
         flash: 'off',
         enableShutterSound: true
       })
       const duration = Date.now() - start
       console.log(`Capture completed
       
-      \tDuration Samples: ${duration}ms
+      \tDuration: ${duration}ms
       \tDevice name: ${device?.name}
       \tFormat: ${JSON.stringify(format, null, 2).split('\n').join('\n\t')}
       `)

@@ -1,0 +1,194 @@
+› Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundled 1476ms node_modules/expo/AppEntry.js (650 modules)
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1820ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1417ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1448ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1395ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1336ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1338ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1414ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
+ LOG  starting capture
+ LOG  Capture completed
+
+      	Duration: 1419ms
+      	Device name: 0 (BACK) androidx.camera.camera2
+      	Format: {
+	  "videoStabilizationModes": [
+	    "off",
+	    "cinematic"
+	  ],
+	  "autoFocusSystem": "contrast-detection",
+	  "photoWidth": 4080,
+	  "supportsPhotoHdr": false,
+	  "supportsDepthCapture": false,
+	  "maxISO": 6400,
+	  "minISO": 100,
+	  "minFps": 10,
+	  "videoWidth": 1920,
+	  "supportsVideoHdr": false,
+	  "videoHeight": 1080,
+	  "fieldOfView": 75.04000877522147,
+	  "maxFps": 30,
+	  "photoHeight": 2296
+	}
